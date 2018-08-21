@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="ip_adress" label="IP Adress" language="en" table="x_22408_iplookup_ipadressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ip_adress</element>
+            <help/>
+            <hint/>
+            <label>IP Adress</label>
+            <language>en</language>
+            <name>x_22408_iplookup_ipadressinfo</name>
+            <plural>IP Adress</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-21 07:36:38</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2192ac35db00230028d57d9ebf9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IP Adress</sys_name>
+            <sys_package display_value="IPLookup" source="x_22408_iplookup">ece91831db00230028d57d9ebf96190b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="IPLookup">ece91831db00230028d57d9ebf96190b</sys_scope>
+            <sys_update_name>sys_documentation_x_22408_iplookup_ipadressinfo_ip_adress_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-21 07:36:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
